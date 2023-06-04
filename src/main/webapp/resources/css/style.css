@@ -3,6 +3,10 @@
     width: 450px;
 }
 
+p {
+    margin: 4px 0px 4px 0px;
+}
+
 p#author {
     height: 30px;
     width: 150px;
